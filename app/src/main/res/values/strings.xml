@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- get_started strings -->
+
+    <string name="app_name">Washify</string>
+    <string name="ek_img_content">ExportKit Image</string>
+    <string name="get_ready">Get ready to make your life easy with single click of app, which makes laundry things handle better.</string>
+    <string name="professional_service_at_your_doorstep_string">Professional Service At Your Doorstep</string>
+    <string name="get_started_string">Get Started</string>
+</resources>

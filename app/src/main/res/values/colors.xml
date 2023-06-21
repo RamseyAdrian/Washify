@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- get_started colors -->
+
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green_bg">#1B473C</color>
+
+    <color name="_bg__get_started_color">#1B473B</color>
+    <color name="get_ready_to_make_your_life_easy_with_single_click_of_app__which_makes_laundry_things_handle_better__color">#FFFFFF</color>
+    <color name="rectangle_188_color">#ffffff</color>
+</resources>

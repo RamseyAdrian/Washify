@@ -1,0 +1,89 @@
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/green_bg">
+    <!--
+    /*
+     *	This content is generated from the API File Info.
+     *	(Alt+Shift+Ctrl+I).
+     *
+     *	@desc
+     *	@file 		get_started
+     *	@date 		Thursday 15th of June 2023 06:19:08 AM
+     *	@title 		Page 1
+     *	@author
+     *	@keywords
+     *	@generator 	Export Kit v1.3.figma
+     *
+     */
+    -->
+
+
+
+            <View
+                android:id="@+id/_bg__get_started"
+                android:layout_width="360dp"
+                android:layout_height="800dp"
+                android:layout_marginStart="0dp"
+                android:layout_marginTop="0dp"
+                android:background="@drawable/_bg__get_started_shape" />
+
+    <TextView
+        android:id="@+id/get_ready_to_make_your_life_easy_with_single_click_of_app__which_makes_laundry_things_handle_better_"
+        android:layout_width="315dp"
+        android:layout_height="72dp"
+        android:layout_gravity="center_horizontal|center"
+        android:layout_marginTop="104dp"
+        android:fontFamily="Roboto"
+        android:gravity="center"
+        android:text="@string/get_ready"
+        android:textColor="@color/get_ready_to_make_your_life_easy_with_single_click_of_app__which_makes_laundry_things_handle_better__color"
+        android:textSize="14sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/washify_2" />
+
+    <TextView
+        android:id="@+id/professional_service_at_your_doorstep"
+        android:layout_width="266dp"
+        android:layout_height="77dp"
+        android:layout_gravity="center_horizontal|center"
+        android:layout_marginTop="16dp"
+        android:fontFamily="Roboto"
+        android:gravity="center"
+        android:text="@string/professional_service_at_your_doorstep_string"
+        android:textColor="@color/get_ready_to_make_your_life_easy_with_single_click_of_app__which_makes_laundry_things_handle_better__color"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/washify_2" />
+
+    <ImageView
+        android:id="@+id/washify_2"
+        android:layout_width="333dp"
+        android:layout_height="345dp"
+        android:layout_marginTop="16dp"
+        android:contentDescription="washify_2"
+        android:src="@drawable/washify_2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/gsbutton"
+        android:layout_width="280dp"
+        android:layout_height="57dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="64dp"
+        android:layout_marginBottom="104dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/button_gs" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "597459889602",
+    "project_id": "washify-cdb27",
+    "storage_bucket": "washify-cdb27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597459889602:android:beb1145740609abd567a5b",
+        "android_client_info": {
+          "package_name": "com.kelompok2.washify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597459889602-dul2sjhiq832bnao2kctv15160mqgu9f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kelompok2.washify",
+            "certificate_hash": "ca33402fe4c7f3afdeec9d91d0af31945d9d8a5f"
+          }
+        },
+        {
+          "client_id": "597459889602-gu50vi90d6i0vbt1pook6et3cmq9f2vi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5eKB0QV7MNabPrJ8dAuCAiqOzyFvx7A0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597459889602-gu50vi90d6i0vbt1pook6et3cmq9f2vi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
